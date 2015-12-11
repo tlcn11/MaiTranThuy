@@ -59,7 +59,7 @@
     
     
     </div>
-    <div class="welcome">Welcome </div>    
+    <div class="welcome">Hello !!!!</div>    
     <div class="copyright">
     <p>Copyright by: <a href="http://duongnhuchuc.xyz">duongnhuchuc</a></p>
     </div>
